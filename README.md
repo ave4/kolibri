@@ -1,6 +1,5 @@
-## Polo File Manager
-
-Polo is a modern, light-weight file manager for Linux with support for multiple panes and tabs; support for archives, and much more.
+## Система управления файлов 'Колибри'
+'Колибри' - современный, легкий файловый менеджер для Linux с поддержкой нескольких панелей и вкладок; поддержка архивов и многое другое.
 
 ## **Features**
 
