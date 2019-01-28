@@ -1,55 +1,55 @@
 ## Система управления файлов 'Колибри'
 'Колибри' - современный, легкий файловый менеджер для Linux с поддержкой нескольких панелей и вкладок; поддержка архивов и многое другое.
 
-## **Features**
+## **Характеристики**
 
-- **Multiple Panes** - Single-pane, dual-pane (vertical or horizontal split) and quad-pane layouts. Supports multiple tabs in each pane. Each tab has an embedded terminal which can be toggled with the F4 key.
-- **Multiple Views** - List view, Icon view, Tiled view and Media view.
-- **Device Manager** - Devices popup displays list of connected devices with options to mount and unmount. Supports locking/unlocking LUKS encrypted devices.
-- **Archive Support** - Support for browsing archives as normal folders. Supports creation of archives in multiple formats with advanced compression settings.
-- **PDF Actions** - Actions in right-click menu: Split and Merge pages, Add or Remove Password, Rotate, etc.
-- **ISO Actions** - Actions in right-click menu: Mount, Boot in VM, Write to USB
-- **Image Actions** - Actions in right-click menu: Rotate, Resize, Reduce Quality, Optimize PNG, Convert to other formats, Boot or Reduce Colors, etc.
-- **Checksum & Hashing** - Actions in right-click menu to generate MD5, SHA1, SHA2-256 ad SHA2-512 checksums for file and folders. Double-click on files with  **.md5, .sha1, .sha2, .sha256, .sha512** extensions to verify.
-- **Video Downloads** - Paste URLs from YouTube and other video websites in a folder to download video files. Integrates with youtube-dl utility.
+- **Несколько панелей** - Однопанельные, двухпанельные (вертикальные или горизонтальные) и четырехпанельные макеты. Поддерживает несколько вкладок на каждой панели. Каждая вкладка имеет встроенный терминал, который можно переключать клавишей F4.
+- **Несколько просмотров** - Представление списка, представление значков, мозаичное представление и представление мультимедиа.
+- **Диспетчер устройств** - Всплывающее окно «Устройства» отображает список подключенных устройств с вариантами подключения и отключения. Поддерживает блокировку / разблокировку LUKS зашифрованных устройств.
+- **Поддержка архивов** - Поддержка просмотра архивов как обычных папок. Поддерживает создание архивов в нескольких форматах с расширенными настройками сжатия.
+- **Действия в формате PDF** - Действия в контекстном меню: разделить и объединить страницы, добавить или удалить пароль, повернуть и т. д.
+- **Действия ISO** - Действия в контекстном меню: Монтирование, Загрузка в ВМ, Запись на USB
+- **Действия с изображениями** - Действия в контекстном меню: поворот, изменение размера, снижение качества, оптимизация PNG, преобразование в другие форматы, загрузка или уменьшение цветов и т. д.
+- **Контрольная сумма и хеширование** - Действия в контекстном меню для создания контрольных сумм MD5, SHA1, SHA2-256 и SHA2-512 для файлов и папок. Дважды щелкните файлы с расширениями **. Md5, .sha1, .sha2, .sha256, .sha512 **, чтобы проверить.
+- **Загрузка видео** - Вставьте URL-адреса с YouTube и других видео-сайтов в папку для загрузки видеофайлов. Интегрируется с утилитой youtube-dl.
 
-## Screenshots
+## Скриншоты
 
-*Single-pane layout with Sidebar and IconView*
+*Однопанельный макет с боковой панелью и IconView*
 
 ![](src/share/polo/images/polo_layout_single_icons.png)
 
-*Single-pane layout with Sidebar and ListView*
+*Однопанельный макет с боковой панелью и ListView*
 
 ![](src/share/polo/images/polo_layout_single_list.png)
 
-*Dual-pane layout with IconView*
+*Двухпанельный макет с IconView*
 
 ![](src/share/polo/images/polo_layout_dual_icons.png)
 
-*Dual-pane layout with ListView*
+*Двухпанельный макет с ListView*
 
 ![](src/share/polo/images/polo_layout_dual_list.png)
 
-*Options for creating archives - Supports all encoder options, encryption, and split archives*
+*Параметры для создания архивов - поддерживает все параметры кодировщика, шифрования и разделения архивов*
 
 ![](images/polo_compress.png)![](images/polo_compress_expanded.png)   
 ![](images/polo_compress_progress.png)
 
-*Support for browsing cloud storage accounts*
+*Поддержка просмотра учетных записей облачного хранилища*
 
 ![](images/cloud_storage.png)
 
 
-## Installation
+## Установка
 
-PPA and DEB files are available for Ubuntu and Ubuntu-based distributions. Binary installers are available for all Linux distributions.
+Файлы PPA и DEB доступны для дистрибутивов на основе Ubuntu и Ubuntu. Двоичные установщики доступны для всех дистрибутивов Linux.
 
 **[Installation](https://github.com/teejee2008/polo/wiki/Installation)**
 
-## Donation Plugins
+## Плагины для пожертвований
 
-Polo includes a few extra plugins for people who have contributed to the project through donations, translations, etc. You can make a donation for $10 or more via PayPal to receive the plugins by email. Your contributions will help keep the project alive and support future development.
+Polo включает в себя несколько дополнительных плагинов для людей, которые внесли свой вклад в проект посредством пожертвований, переводов и т. Д. Вы можете сделать пожертвование на 10 или более долларов через PayPal, чтобы получить плагины по электронной почте. Ваш вклад поможет сохранить проект и поддержать дальнейшее развитие.
 
 [**Donation Features**](https://github.com/teejee2008/polo/wiki/Donation-Features)
 
